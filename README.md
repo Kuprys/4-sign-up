@@ -19,7 +19,8 @@ Design: [Sign-up](https://cdn.discordapp.com/attachments/850245533838868480/8502
 - desktop only
 - absolute center (horizontal and vertical)
 - form
-- multi-page 
+- multi-page (sign in and forgot password pages, has to be linked between each other(in circle))
+- css blur
 
 ## Authors
 
