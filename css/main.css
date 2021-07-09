@@ -1,0 +1,22 @@
+body {
+
+}
+
+.conteineris {
+    display:inline-block;
+    width: 800px;
+
+}
+
+.kairysis-stulpelis {
+    width: 40%;
+    float: left;
+background-color: red;
+}
+
+.desnysis-stulpelis {
+    width: 60%;
+    float: left;
+background-color: rgb(89, 6, 245);
+}
+
