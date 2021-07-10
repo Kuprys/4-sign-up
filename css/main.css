@@ -1,22 +1,33 @@
 body {
-
+background-color: #02ACCB;
 }
 
 .conteineris {
     display:inline-block;
     width: 800px;
+    margin-top: 200px;
+    margin-left: calc(50% - 400px);
+    
 
 }
 
 .kairysis-stulpelis {
     width: 40%;
     float: left;
-background-color: red;
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: #184DAD;
+    color: #fff;
+    
 }
 
+a{
+    color: #fff;
+}
 .desnysis-stulpelis {
     width: 60%;
+    padding: 60px;
     float: left;
-background-color: rgb(89, 6, 245);
+background-color: #fff;
 }
 
